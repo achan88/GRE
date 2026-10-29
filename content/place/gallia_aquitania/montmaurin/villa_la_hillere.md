@@ -1,8 +1,8 @@
 ---
 slug: "bccfd5398c"
 type: garden
-title: Villa La Hillere
-latlon: [ 0, 0 ]
+title: Villa La Hillère
+latlon: [ 43.22555, 0.64939 ]
 jashemski-catalogue: AQU 1.2
 author: Eric Morvillez, Clopper Almon
 translator: 
